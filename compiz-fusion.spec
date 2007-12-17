@@ -11,7 +11,6 @@ Source1: %{name}.defaults
 License: GPL
 Group: System/X11
 URL: http://www.compiz-fusion.org/
-BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
 Requires: compiz libcompizconfig ccsm compiz-fusion-plugins-main
 
