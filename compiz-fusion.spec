@@ -1,8 +1,8 @@
 %define name compiz-fusion
-%define version 0.0.1
-%define release %mkrel 0.3
+%define version 2008.1
+%define release %mkrel 0.1
 
-Summary: Compiz Fusion OpenGL composing manager
+Summary: Compiz Fusion OpenGL compositing manager
 Name: %{name}
 Version: %{version}
 Release: %{release}
@@ -20,6 +20,9 @@ Compiz Fusion is a set of applications based on the compiz OpenGL
 compositing manager.
 It uses the ccp configuration backend, contains additional compiz
 plugins, and provides the ccsm configuration interface.
+
+This package provides some helper scripts and contains the necessary
+dependancies to pull in the relevent required packages.
 
 %prep
 %setup -q -T -c
