@@ -1,6 +1,6 @@
 %define name compiz-fusion
-%define version 2009.0
-%define release %mkrel 4
+%define version 2010.0
+%define release %mkrel 1
 
 Summary: Compiz Fusion OpenGL compositing manager
 Name: %{name}
