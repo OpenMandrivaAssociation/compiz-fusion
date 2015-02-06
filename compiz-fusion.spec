@@ -1,6 +1,6 @@
 Name:		compiz-fusion
 Version:	2012.1
-Release:	4
+Release:	5
 Summary:	Compiz Fusion OpenGL compositing manager
 License:	GPLv2
 Group:		System/X11
