@@ -4,7 +4,7 @@ Release:	5
 Summary:	Compiz Fusion OpenGL compositing manager
 License:	GPLv2
 Group:		System/X11
-URL:		http://www.compiz.org/
+URL:		https://www.compiz.org/
 Source0:	%{name}
 Source1:	%{name}.defaults
 Requires:	compiz0.8
